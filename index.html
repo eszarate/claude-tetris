@@ -3,10 +3,21 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Tetris</title>
+  <title>Claude Tetris</title>
+  <meta name="description" content="Claude Tetris: el clásico Tetris en JavaScript vanilla con HTML5 Canvas. Sin dependencias, solo abrir y jugar." />
+  <meta property="og:title" content="Claude Tetris" />
+  <meta property="og:description" content="El clásico Tetris en JavaScript vanilla con HTML5 Canvas. Sin dependencias, solo abrir y jugar." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230f0f17'/%3E%3Crect x='4' y='4' width='11' height='11' fill='%234dd0e1'/%3E%3Crect x='17' y='4' width='11' height='11' fill='%23ffd54f'/%3E%3Crect x='4' y='17' width='11' height='11' fill='%23ba68c8'/%3E%3Crect x='17' y='17' width='11' height='11' fill='%23e57373'/%3E%3C/svg%3E" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <h1 class="game-title" aria-label="Claude Tetris">
+    <span>C</span><span>L</span><span>A</span><span>U</span><span>D</span><span>E</span>
+    <span class="gap"></span>
+    <span>T</span><span>E</span><span>T</span><span>R</span><span>I</span><span>S</span>
+  </h1>
+
   <div class="wrapper">
     <div class="game-container">
       <canvas id="board" width="300" height="600"></canvas>
