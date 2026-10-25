@@ -1,6 +1,6 @@
-# Tetris
+# Claude Tetris
 
-Implementación del clásico **Tetris** en JavaScript vanilla, usando HTML5 Canvas y CSS. Sin dependencias externas, sin frameworks, sin proceso de build: solo abrir y jugar.
+**Claude Tetris** es una implementación del clásico **Tetris** en JavaScript vanilla, usando HTML5 Canvas y CSS. Sin dependencias externas, sin frameworks, sin proceso de build: solo abrir y jugar.
 
 ![Tech](https://img.shields.io/badge/HTML5-Canvas-orange)
 ![Tech](https://img.shields.io/badge/CSS3-blueviolet)
@@ -10,7 +10,7 @@ Implementación del clásico **Tetris** en JavaScript vanilla, usando HTML5 Canv
 
 ## Tabla de contenidos
 
-- [Tetris](#tetris)
+- [Claude Tetris](#claude-tetris)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Qué hace el proyecto](#qué-hace-el-proyecto)
   - [Cómo ejecutar el juego](#cómo-ejecutar-el-juego)
